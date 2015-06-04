@@ -81,9 +81,13 @@
     <ClCompile Include="anagram.cpp" />
     <ClCompile Include="anagrams.cpp" />
     <ClCompile Include="compareStrings.cpp" />
+    <ClCompile Include="Delete Node in the Middle of Singly Linked List.cpp" />
     <ClCompile Include="Longest Words.cpp" />
     <ClCompile Include="Partition Array By Odd and Even.cpp" />
     <ClCompile Include="strStr.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Node.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
