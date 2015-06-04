@@ -33,5 +33,8 @@
     <ClCompile Include="Longest Words.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Partition Array By Odd and Even.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
