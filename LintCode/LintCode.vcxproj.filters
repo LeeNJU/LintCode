@@ -42,6 +42,9 @@
     <ClCompile Include="Flip Bits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Nth to Last Node in List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Node.h">
