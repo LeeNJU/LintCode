@@ -45,6 +45,9 @@
     <ClCompile Include="Nth to Last Node in List.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Longest Common Substring.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Node.h">
