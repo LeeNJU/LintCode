@@ -25,6 +25,9 @@
     <Filter Include="Source Files\Bit Manipulation">
       <UniqueIdentifier>{89315f5e-aa13-47bc-aa2e-8029b6404889}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Math">
+      <UniqueIdentifier>{25f548d7-7804-40d7-87fb-01ff3f43eb7b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="anagram.cpp">
@@ -65,6 +68,9 @@
     </ClCompile>
     <ClCompile Include="Space Replacement.cpp">
       <Filter>Source Files\String</Filter>
+    </ClCompile>
+    <ClCompile Include="Digit Counts.cpp">
+      <Filter>Source Files\Math</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -82,6 +82,7 @@
     <ClCompile Include="anagrams.cpp" />
     <ClCompile Include="compareStrings.cpp" />
     <ClCompile Include="Delete Node in the Middle of Singly Linked List.cpp" />
+    <ClCompile Include="Digit Counts.cpp" />
     <ClCompile Include="Flip Bits.cpp" />
     <ClCompile Include="Longest Common Substring.cpp" />
     <ClCompile Include="Longest Words.cpp" />
