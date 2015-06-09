@@ -75,6 +75,9 @@
     <ClCompile Include="Sort Letters by Case.cpp">
       <Filter>Source Files\String</Filter>
     </ClCompile>
+    <ClCompile Include="The Smallest Difference.cpp">
+      <Filter>Source Files\Array</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Node.h">
