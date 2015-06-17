@@ -96,6 +96,7 @@
     <ClCompile Include="strStr.cpp" />
     <ClCompile Include="Subarray Sum.cpp" />
     <ClCompile Include="The Smallest Difference.cpp" />
+    <ClCompile Include="Triangle Count.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Node.h" />
