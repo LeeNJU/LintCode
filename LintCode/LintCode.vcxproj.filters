@@ -31,6 +31,9 @@
     <Filter Include="Source Files\Graph">
       <UniqueIdentifier>{9e01c1da-2312-47a3-87b0-fa61726d0f5b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Heap">
+      <UniqueIdentifier>{34b1808f-a876-4370-b762-7157d034d5e5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="anagram.cpp">
@@ -92,6 +95,9 @@
     </ClCompile>
     <ClCompile Include="Longest Substring with At Most K Distinct Characters.cpp">
       <Filter>Source Files\String</Filter>
+    </ClCompile>
+    <ClCompile Include="Heapify.cpp">
+      <Filter>Source Files\Heap</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
