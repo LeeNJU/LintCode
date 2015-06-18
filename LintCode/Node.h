@@ -11,3 +11,10 @@ struct DirectedGraphNode {
 	std::vector<DirectedGraphNode *> neighbors;
 	DirectedGraphNode(int x) : label(x) {};
 };
+
+struct TreeNode
+{
+	int val;
+	TreeNode *left, *right;
+	TreeNode(int val) : val(val), left(nullptr), right(nullptr){}
+};

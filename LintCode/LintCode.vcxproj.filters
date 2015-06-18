@@ -34,6 +34,9 @@
     <Filter Include="Source Files\Heap">
       <UniqueIdentifier>{34b1808f-a876-4370-b762-7157d034d5e5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Tree">
+      <UniqueIdentifier>{8fb31265-ba2d-445d-ba1c-9617c2bf6004}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="anagram.cpp">
@@ -98,6 +101,9 @@
     </ClCompile>
     <ClCompile Include="Heapify.cpp">
       <Filter>Source Files\Heap</Filter>
+    </ClCompile>
+    <ClCompile Include="Lowest Common Ancestor.cpp">
+      <Filter>Source Files\Tree</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
