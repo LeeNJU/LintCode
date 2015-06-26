@@ -81,6 +81,7 @@
     <ClCompile Include="anagram.cpp" />
     <ClCompile Include="anagrams.cpp" />
     <ClCompile Include="Assignment Operator Overloading.cpp" />
+    <ClCompile Include="Binary Search.cpp" />
     <ClCompile Include="compareStrings.cpp" />
     <ClCompile Include="Delete Node in the Middle of Singly Linked List.cpp" />
     <ClCompile Include="Digit Counts.cpp" />
