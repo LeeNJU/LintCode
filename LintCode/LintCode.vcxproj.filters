@@ -40,6 +40,9 @@
     <Filter Include="Source Files\OO Design">
       <UniqueIdentifier>{8c3dc3e8-db14-40c8-abbf-be414af01191}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Stack And Queue">
+      <UniqueIdentifier>{886fda06-4f6f-49fe-871b-0d9330455abd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="anagram.cpp">
@@ -113,6 +116,9 @@
     </ClCompile>
     <ClCompile Include="Assignment Operator Overloading.cpp">
       <Filter>Source Files\OO Design</Filter>
+    </ClCompile>
+    <ClCompile Include="Implement Queue by Two Stacks.cpp">
+      <Filter>Source Files\Stack And Queue</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
