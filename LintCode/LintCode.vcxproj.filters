@@ -120,6 +120,9 @@
     <ClCompile Include="Implement Queue by Two Stacks.cpp">
       <Filter>Source Files\Stack And Queue</Filter>
     </ClCompile>
+    <ClCompile Include="Singleton.cpp">
+      <Filter>Source Files\OO Design</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Node.h">
