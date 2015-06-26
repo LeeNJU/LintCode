@@ -37,6 +37,9 @@
     <Filter Include="Source Files\Tree">
       <UniqueIdentifier>{8fb31265-ba2d-445d-ba1c-9617c2bf6004}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\OO Design">
+      <UniqueIdentifier>{8c3dc3e8-db14-40c8-abbf-be414af01191}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="anagram.cpp">
@@ -107,6 +110,9 @@
     </ClCompile>
     <ClCompile Include="Insert Node in a Binary Search Tree.cpp">
       <Filter>Source Files\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment Operator Overloading.cpp">
+      <Filter>Source Files\OO Design</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
