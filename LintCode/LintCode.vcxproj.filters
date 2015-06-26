@@ -123,6 +123,9 @@
     <ClCompile Include="Singleton.cpp">
       <Filter>Source Files\OO Design</Filter>
     </ClCompile>
+    <ClCompile Include="Fibonacci.cpp">
+      <Filter>Source Files\Math</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Node.h">
