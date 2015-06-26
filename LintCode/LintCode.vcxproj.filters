@@ -43,6 +43,9 @@
     <Filter Include="Source Files\Stack And Queue">
       <UniqueIdentifier>{886fda06-4f6f-49fe-871b-0d9330455abd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Sort">
+      <UniqueIdentifier>{904ecb6e-b5ea-4cb1-9d95-35b1d73cfb47}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="anagram.cpp">
@@ -140,6 +143,9 @@
     </ClCompile>
     <ClCompile Include="Search a 2D Matrix II.cpp">
       <Filter>Source Files\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="Median.cpp">
+      <Filter>Source Files\Sort</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
