@@ -86,6 +86,7 @@
     <ClCompile Include="Delete Node in the Middle of Singly Linked List.cpp" />
     <ClCompile Include="Digit Counts.cpp" />
     <ClCompile Include="Fibonacci.cpp" />
+    <ClCompile Include="Find the Missing Number.cpp" />
     <ClCompile Include="Flip Bits.cpp" />
     <ClCompile Include="Heapify.cpp" />
     <ClCompile Include="Implement Queue by Two Stacks.cpp" />

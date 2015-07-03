@@ -153,6 +153,9 @@
     <ClCompile Include="Recover Rotated Sorted Array.cpp">
       <Filter>Source Files\Array</Filter>
     </ClCompile>
+    <ClCompile Include="Find the Missing Number.cpp">
+      <Filter>Source Files\Array</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Node.h">
