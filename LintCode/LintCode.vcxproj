@@ -96,6 +96,7 @@
     <ClCompile Include="Longest Words.cpp" />
     <ClCompile Include="Lowest Common Ancestor.cpp" />
     <ClCompile Include="Majority Number III.cpp" />
+    <ClCompile Include="Matrix Zigzag Traversal.cpp" />
     <ClCompile Include="Median.cpp" />
     <ClCompile Include="Merge Sorted Array II.cpp" />
     <ClCompile Include="Nth to Last Node in List.cpp" />
