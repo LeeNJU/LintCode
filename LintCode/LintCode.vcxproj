@@ -88,6 +88,7 @@
     <ClCompile Include="Fibonacci.cpp" />
     <ClCompile Include="Find the Missing Number.cpp" />
     <ClCompile Include="Flip Bits.cpp" />
+    <ClCompile Include="HashTable.cpp" />
     <ClCompile Include="Heapify.cpp" />
     <ClCompile Include="Implement Queue by Two Stacks.cpp" />
     <ClCompile Include="Insert Node in a Binary Search Tree.cpp" />
