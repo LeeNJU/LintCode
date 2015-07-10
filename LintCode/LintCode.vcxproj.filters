@@ -46,6 +46,9 @@
     <Filter Include="Source Files\Sort">
       <UniqueIdentifier>{904ecb6e-b5ea-4cb1-9d95-35b1d73cfb47}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\HashTable">
+      <UniqueIdentifier>{f525be2a-d8fb-4afb-8cb5-cddaee5a67a9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="anagram.cpp">
@@ -163,7 +166,7 @@
       <Filter>Source Files\Array</Filter>
     </ClCompile>
     <ClCompile Include="HashTable.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\HashTable</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
