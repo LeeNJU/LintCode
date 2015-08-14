@@ -49,6 +49,9 @@
     <Filter Include="Source Files\HashTable">
       <UniqueIdentifier>{f525be2a-d8fb-4afb-8cb5-cddaee5a67a9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Dynamic Programming">
+      <UniqueIdentifier>{a7092ea4-0bd1-462a-a435-90cc1d085081}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="anagram.cpp">
@@ -167,6 +170,9 @@
     </ClCompile>
     <ClCompile Include="HashTable.cpp">
       <Filter>Source Files\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="Longest Increasing Continuous subsequence.cpp">
+      <Filter>Source Files\Dynamic Programming</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
