@@ -95,6 +95,7 @@
     <ClCompile Include="Longest Common Subsequence.cpp" />
     <ClCompile Include="Longest Common Substring.cpp" />
     <ClCompile Include="Longest Increasing Continuous subsequence.cpp" />
+    <ClCompile Include="Longest Increasing Subsequence.cpp" />
     <ClCompile Include="Longest Substring with At Most K Distinct Characters.cpp" />
     <ClCompile Include="Longest Words.cpp" />
     <ClCompile Include="Lowest Common Ancestor.cpp" />
