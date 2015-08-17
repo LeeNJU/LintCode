@@ -92,6 +92,7 @@
     <ClCompile Include="Heapify.cpp" />
     <ClCompile Include="Implement Queue by Two Stacks.cpp" />
     <ClCompile Include="Insert Node in a Binary Search Tree.cpp" />
+    <ClCompile Include="Longest Common Subsequence.cpp" />
     <ClCompile Include="Longest Common Substring.cpp" />
     <ClCompile Include="Longest Increasing Continuous subsequence.cpp" />
     <ClCompile Include="Longest Substring with At Most K Distinct Characters.cpp" />
