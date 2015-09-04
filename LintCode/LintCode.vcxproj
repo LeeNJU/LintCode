@@ -100,6 +100,7 @@
     <ClCompile Include="Longest Substring with At Most K Distinct Characters.cpp" />
     <ClCompile Include="Longest Words.cpp" />
     <ClCompile Include="Lowest Common Ancestor.cpp" />
+    <ClCompile Include="Majority Element II.cpp" />
     <ClCompile Include="Majority Number III.cpp" />
     <ClCompile Include="Matrix Zigzag Traversal.cpp" />
     <ClCompile Include="Median.cpp" />
