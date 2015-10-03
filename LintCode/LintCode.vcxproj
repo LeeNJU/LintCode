@@ -87,6 +87,7 @@
     <ClCompile Include="Delete Node in the Middle of Singly Linked List.cpp" />
     <ClCompile Include="Digit Counts.cpp" />
     <ClCompile Include="Fibonacci.cpp" />
+    <ClCompile Include="Find the Connected Component in the Undirected Graph.cpp" />
     <ClCompile Include="Find the Missing Number.cpp" />
     <ClCompile Include="Flip Bits.cpp" />
     <ClCompile Include="HashTable.cpp" />

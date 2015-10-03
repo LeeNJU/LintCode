@@ -12,6 +12,12 @@ struct DirectedGraphNode {
 	DirectedGraphNode(int x) : label(x) {};
 };
 
+struct UndirectedGraphNode {
+	int label;
+	std::vector<UndirectedGraphNode *> neighbors;
+	UndirectedGraphNode(int x) : label(x) {};
+};
+
 struct TreeNode
 {
 	int val;

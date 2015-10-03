@@ -195,6 +195,9 @@
     <ClCompile Include="Cosine Similarity.cpp">
       <Filter>Source Files\Array</Filter>
     </ClCompile>
+    <ClCompile Include="Find the Connected Component in the Undirected Graph.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Node.h">
