@@ -89,6 +89,7 @@
     <ClCompile Include="Fibonacci.cpp" />
     <ClCompile Include="Find the Connected Component in the Undirected Graph.cpp" />
     <ClCompile Include="Find the Missing Number.cpp" />
+    <ClCompile Include="Find the Weak Connected Component in the Directed Graph.cpp" />
     <ClCompile Include="Flip Bits.cpp" />
     <ClCompile Include="HashTable.cpp" />
     <ClCompile Include="Heapify.cpp" />
