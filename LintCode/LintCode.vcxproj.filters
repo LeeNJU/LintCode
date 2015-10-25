@@ -201,6 +201,9 @@
     <ClCompile Include="Find the Weak Connected Component in the Directed Graph.cpp">
       <Filter>Source Files\Graph</Filter>
     </ClCompile>
+    <ClCompile Include="Delete Digits.cpp">
+      <Filter>Source Files\String</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Node.h">

@@ -84,6 +84,7 @@
     <ClCompile Include="Binary Search.cpp" />
     <ClCompile Include="compareStrings.cpp" />
     <ClCompile Include="Cosine Similarity.cpp" />
+    <ClCompile Include="Delete Digits.cpp" />
     <ClCompile Include="Delete Node in the Middle of Singly Linked List.cpp" />
     <ClCompile Include="Digit Counts.cpp" />
     <ClCompile Include="Fibonacci.cpp" />
