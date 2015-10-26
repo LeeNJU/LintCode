@@ -127,6 +127,7 @@
     <ClCompile Include="Subtree.cpp" />
     <ClCompile Include="The Smallest Difference.cpp" />
     <ClCompile Include="Triangle Count.cpp" />
+    <ClCompile Include="Update Bits.cpp" />
     <ClCompile Include="Wood Cut.cpp" />
   </ItemGroup>
   <ItemGroup>
