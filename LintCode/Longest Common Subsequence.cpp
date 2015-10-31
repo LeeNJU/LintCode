@@ -13,7 +13,7 @@ int longestCommonSubsequence(std::string A, std::string B)
 		for (int j = 0; j < B.size(); ++j)
 		{
 			if (A[i] == B[j])
-				dp[i + 1][j + 1] = std::max(std::max(dp[i + 1][j], dp[i][j + 1]), dp[i][j] + 1);
+				dp[i + 1][j + 1] =  dp[i][j] + 1;
 			else
 				dp[i + 1][j + 1] = std::max(dp[i + 1][j], dp[i][j + 1]);
 			result = std::max(result, dp[i + 1][j + 1]);
